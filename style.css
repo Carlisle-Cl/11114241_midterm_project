@@ -1,0 +1,205 @@
+body{
+    font-family: "標楷體";
+    color: white;
+    background-image: url("image/background/wood.jpg");
+    margin: 50px 50px;
+}
+
+h1{
+    text-align: center;
+    font-size: 30px
+}
+
+h3{
+    font-size: 25px;
+}
+
+h4{
+    font-size: 20px;
+}
+
+p{
+    display: inline;
+}
+
+a:hover{
+    background-color: orange;
+    color: white;
+}
+
+nav{
+    border: 5px dotted white;
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px 60px 40px 60px;
+    margin: 40px 150px;
+    background-image: url("image/background/paper.jpg");
+    background-size: cover;
+    width: 63%;
+}
+
+article{
+    width: 65%;
+}
+
+.pic{
+    border-radius:30%;
+    float: left;
+    padding: 20px;
+}
+
+.data{
+    border:5px dotted white;
+    border-radius: 20px;
+    padding: 20px 50px;
+    margin: 20px 150px;
+    background-image: url("image/background/black.jpg");
+    background-size: cover;
+}
+
+.skill{
+    border: 5px dotted white;
+    border-radius: 20px;
+    margin: 20px 150px;
+    padding: 20px 50px;
+    background-image: url("image/background/black.jpg");
+    background-size: cover;
+}
+
+.statistics{
+    border: 5px solid #D0D0D0;
+    border-radius: 20px;
+    padding: 50px 30px;
+    margin: 20px 10px;
+    background-image: url("image/background/paper.jpg");
+    background-size: cover;
+}
+
+.test{
+    border: 5px solid #D0D0D0;
+    border-radius: 20px;
+    padding: 50px 30px;
+    margin: 20px 10px;
+    background-image: url("image/background/paper.jpg");
+    background-size: cover;
+}
+
+.research{
+    border: 5px solid #D0D0D0;
+    border-radius: 20px;
+    padding: 50px 30px;
+    margin: 20px 10px;
+    background-image: url("image/background/paper.jpg");
+    background-size: cover;
+}
+
+.code{
+    border: 5px dotted white;
+    border-radius: 20px;
+    padding: 40px 50px;
+    margin: 20px 150px;
+    background-image: url("image/background/black.jpg");
+    background-size: cover;
+}
+
+.python{
+    border: 5px solid #D0D0D0;
+    border-radius: 20px;
+    padding: 50px 30px;
+    margin: 20px 10px;
+    background-image: url("image/background/paper.jpg");
+    background-size: cover;
+}
+
+.html{
+    border: 5px solid #D0D0D0;
+    border-radius: 20px;
+    padding: 50px 30px;
+    margin: 20px 10px;
+    background-image: url("image/background/paper.jpg");
+    background-size: cover;
+}
+
+.js{
+    border:5px solid #D0D0D0;
+    border-radius: 20px;
+    padding: 50px 30px;
+    margin: 20px 10px;
+    background-image: url("image/background/paper.jpg");
+    background-size: cover;
+}
+
+.experience{
+    border: 5px dotted white;
+    border-radius: 20px;
+    padding: 50px;
+    margin: 20px 150px;
+    background-image: url("image/background/black.jpg");
+    background-size: cover;
+}
+
+.exp{
+    border: 5px solid #D0D0D0;
+    border-radius: 20px;
+    padding: 50px 55px;
+    margin: 20px;
+    background-image: url("image/background/paper.jpg");
+    background-size: cover;
+}
+
+.experiment{
+    border: 3px solid black;
+    border-radius: 20px;
+    margin: 20px 20px 0px 20px;
+}
+
+.game{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.videomake{
+    border: 5px solid #D0D0D0;
+    border-radius: 20px;
+    padding: 50px 90px;
+    margin: 20px;
+    background-image: url("image/background/paper.jpg");
+    background-size: cover;
+}
+
+.video{
+    padding: 0px 0px 20px 0px;
+}
+
+.testmake{
+    border: 5px solid #D0D0D0;
+    border-radius: 20px;
+    padding: 50px 70px;
+    margin: 20px;
+    background-image: url("image/background/paper.jpg");
+    background-size: cover;
+}
+
+.construction{
+    border: 3px solid black;
+    border-radius: 20px;
+    margin: 0px 0px 20px 0px;
+}
+
+footer{
+    border: 5px dotted white;
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px 60px;
+    margin: 40px 150px;
+    background-image: url("image/background/paper.jpg");
+    background-size: cover;
+    width: 63%;
+}
+
+.top{
+    float: right;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
